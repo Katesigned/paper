@@ -53,6 +53,7 @@ _URLS = {
  #  "train":_URL +"train-v1.1.json",
     #  "dev": "https://raw.githubusercontent.com/katesigned/paper/dev-1.1.json",
      "dev"https://huggingface.co/Katesignedup/paper/edit/main/dev-1.1.csv",
+     "https://huggingface.co/Katesignedup/paper/raw/main/dev-1.1.csv",
 }
 
 
